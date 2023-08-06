@@ -1,0 +1,6 @@
+
+$define x 1;
+
+proc _entry() > {
+  %inc x;
+}

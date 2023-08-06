@@ -5,3 +5,10 @@ version = 3
 [[package]]
 name = "mico-ir"
 version = "0.1.0"
+
+[[package]]
+name = "test_compiler"
+version = "0.1.0"
+dependencies = [
+ "mico-ir",
+]
